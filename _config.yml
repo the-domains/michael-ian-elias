@@ -1,0 +1,28 @@
+name: Michael Ian Elias
+favicon: null
+layout_spectrum: 0.5876919981092215
+typography_spectrum: 0.8976728357374668
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.958888023160398
+  lightness: 0.809421178419143
+  saturation: 0.06537289917469025
+  rhythmicContrast: 0.8194938860833645
+purpose: []
